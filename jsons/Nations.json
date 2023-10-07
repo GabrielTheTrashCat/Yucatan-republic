@@ -1,26 +1,26 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Yucatan republic",
+		"leaderName": "Francisco kanek",
+		"adjective": ["yucateco"],
+		"startBias": ["jungle"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "U kaajil beeta'al Wey taak a aprobación",
+		"startIntroPart2": "the yucatan republic existed for less than 6 years yet modern yucatan people are still patriotic!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "A violencia ti' to'on k ka'anal u a intenciones...",
+		"attacked": "no vamos a aceptar tu violencia hacia los mayas yucatecos!",
+		"defeated":  that tho"well.... valimos verga ",
+		"introduction": "no.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "buenas tardes",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralNo": [" ","No!","me reuso."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateHello": "ahora que?",
+		"hateLetsHearIt": ["habla!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
